@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p xtregbn Balestra-Nerlove Random-Effects Panel Data: Ridge and Weighted Regression Use xtregbn With STATA 18

@@ -1,6 +1,8 @@
 # xtregbn
 Balestra-Nerlove Random-Effects Panel Data: Ridge and Weighted Regression Use xtregbn With STATA 18
 
+https://www.youtube.com/watch?v=l6jT8tSb-HA
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
